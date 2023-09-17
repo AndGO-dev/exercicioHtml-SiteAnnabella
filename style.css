@@ -89,6 +89,12 @@ a {
 
 #f-text {
     font-size: 13px;
-    text-align: center;
-    
+    text-align: center;  
+}
+
+#f-and-text {
+    font-size: 8px;
+    display: block;
+    padding: none;
+    margin: 0 auto;
 }
