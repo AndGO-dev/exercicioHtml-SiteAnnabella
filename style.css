@@ -94,7 +94,6 @@ a {
 
 #f-and-text {
     font-size: 8px;
-    display: block;
-    padding: none;
-    margin: 0 auto;
+    text-align: center;
+
 }
